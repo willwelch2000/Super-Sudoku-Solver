@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Super Sudoku Solver</string>
+    <string name="action_restart">Restart</string>
+
+    <string name="waiting">Waiting…</string>
+    <string name="marker">Markers</string>
+    <string name="phase">Phase</string>
+    <string name="zero">0</string>
+</resources>
