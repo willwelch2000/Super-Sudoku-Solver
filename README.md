@@ -1,6 +1,7 @@
 # Super-Sudoku-Solver
 Android Sudoku Solver App
 
+## Description
 This Android application lets the user input an unsolved Sudoku puzzle. 
 The app will then solve the puzzle.
 The system will solve any puzzle that has a valid solution.
